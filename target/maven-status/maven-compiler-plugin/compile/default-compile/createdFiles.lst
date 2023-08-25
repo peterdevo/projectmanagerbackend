@@ -1,0 +1,14 @@
+net\java\todoapi\cores\config\WebConfig.class
+net\java\todoapi\cores\ResponseHandler.class
+net\java\todoapi\services\ProjectImpService.class
+net\java\todoapi\services\ProjectService.class
+net\java\todoapi\cores\exceptions\ProjectNotFoundException.class
+net\java\todoapi\cores\exceptions\ErrorObject.class
+net\java\todoapi\ProjectManager.class
+net\java\todoapi\cores\exceptions\ProjectBadRequestException.class
+net\java\todoapi\cores\ApiResponse.class
+net\java\todoapi\models\Project.class
+net\java\todoapi\controllers\ProjectController.class
+net\java\todoapi\repositories\ProjectImpRepository.class
+net\java\todoapi\cores\exceptions\GlobalExceptionHandler.class
+net\java\todoapi\repositories\ProjectRepository.class
