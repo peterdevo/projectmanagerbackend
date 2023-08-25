@@ -1,4 +1,4 @@
-net\java\todoapi\repositoriestests\ProjectRepositoryTests.class
-net\java\todoapi\controllerstests\ProjectControllerTests.class
-net\java\todoapi\servicestests\ProjectServiceTest.class
-net\java\todoapi\TodoapiApplicationTests.class
+net\java\projectmanager\ProjectManagerApplicationTests.class
+net\java\projectmanager\servicestests\ProjectServiceTest.class
+net\java\projectmanager\controllerstests\ProjectControllerTests.class
+net\java\projectmanager\repositoriestests\ProjectRepositoryTests.class
